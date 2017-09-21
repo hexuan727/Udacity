@@ -1,1 +1,51 @@
 /* 添加 CSS */
+
+body {
+	font-family: 'slabo 27px', serif;
+}
+
+h2 {
+	padding: 5px;
+	font-size: 40px;
+	font-family: Arial, sans-serif;
+  text-transform: uppercase;
+	color: #87CEFA;
+	margin: 0 auto;
+}
+
+img {
+	width: 300px;
+	padding: 9px;
+	border-radius: 5px;
+}
+
+.card {
+  width: 320px;
+  border: 5px solid Skyblue;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 15px;
+  box-shadow: 5px 15px 30px 5px #00BFFF;
+}
+
+.content_box {
+  max-width: 300px;
+  border: 2px solid Skyblue;
+  padding: 5px 12px;
+  margin: 5px 5px;
+  border-radius: 15px;
+}
+
+#fun_facts {
+  font-style: italic;
+  font-family: 'Indie Flower', cursive;
+}
+
+.facts-list span {
+	font-weight: bold;
+}
+
+li {
+  list-style-type: none;
+  text-indent: -40px;
+}
