@@ -25,3 +25,7 @@ hr {
   height: 5px;
   size: 5px;
 }
+
+section {
+  word-break: break-all;
+}
